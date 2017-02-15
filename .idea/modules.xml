@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UseTornadoFx.iml" filepath="$PROJECT_DIR$/.idea/modules/UseTornadoFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UseTornadoFx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UseTornadoFx_main.iml" group="UseTornadoFx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UseTornadoFx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UseTornadoFx_test.iml" group="UseTornadoFx" />
+    </modules>
+  </component>
+</project>
