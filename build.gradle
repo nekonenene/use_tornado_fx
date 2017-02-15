@@ -1,4 +1,4 @@
-defaultTasks "build" // gradle とコマンドすると gradle build になる
+defaultTasks "run" // gradle とコマンドすると gradle run になる
 
 buildscript {
     ext.kotlin_version = "1.0.6"
